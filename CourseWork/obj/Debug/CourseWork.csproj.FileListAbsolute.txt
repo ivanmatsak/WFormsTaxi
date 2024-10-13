@@ -1,0 +1,103 @@
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+E:\Everything\4курс\Курсовая_дб\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe.config
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.exe
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\CourseWork.pdb
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.Form1.resources
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.Properties.Resources.resources
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.GenerateResource.cache
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.exe
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\EnvDTE.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\stdole.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\Microsoft.MSXML.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\CourseWork.csproj.CopyComplete
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\RdlCompile.cache
+C:\Курс 4\Заказы\БД\CourseWork\CourseWork\CourseWork\obj\Debug\RdlCompile.compiled
